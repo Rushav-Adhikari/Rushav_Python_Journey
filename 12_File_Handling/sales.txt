@@ -1,0 +1,4 @@
+Product: Laptop 
+Quantity: 5 
+Price: 80000
+Status: Completed

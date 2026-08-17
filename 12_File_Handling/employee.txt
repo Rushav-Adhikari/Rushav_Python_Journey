@@ -1,0 +1,4 @@
+name: Ram 
+Salary: 60000 
+Department = Finance
+Experience: 3 Years
